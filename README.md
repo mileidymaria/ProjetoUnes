@@ -1,1 +1,3 @@
 # ProjetoUnes
+
+![](Funcionamento/funcionamento.gif)
